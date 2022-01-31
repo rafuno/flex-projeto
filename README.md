@@ -33,7 +33,7 @@
 
 # :eyes: Demo Website
 
-👉 demo: https://rafuno.github.io/Rafael-D.I.O-treinos/
+👉 demo: https://rafuno.github.io/flex-projeto/
 
 # :computer: Technologies
 
